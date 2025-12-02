@@ -1,0 +1,81 @@
+/* BODY / GENERAL */
+body {
+  background: #0A0C19; /* website background color */
+  color: white;
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* HERO HEADER */
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.logo {
+  width: 400px;  /* same size as previous home image */
+  height: auto;
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
+h1 {
+  font-size: 60px;
+  color: #d4af37;
+  letter-spacing: 2px;
+}
+
+.slogan {
+  font-size: 20px;
+  color: #c9a96a;
+  margin-top: 10px;
+}
+
+/* SECTIONS */
+.section {
+  padding: 50px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #d4af37;
+  font-size: 36px;
+  margin-bottom: 15px;
+}
+
+p {
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+/* LIST */
+.list li {
+  margin: 12px 0;
+  font-size: 18px;
+}
+
+/* PRODUCT CATEGORY */
+.category {
+  margin: 50px 0;
+  text-align: center;
+}
+
+/* Fashion & Accessories Images */
+.cat-img {
+  width: 400px; /* fashion & accessories same size */
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+/* Home image same size as fashion */
+.cat-img.home {
+  width: 400px;
+}
+
+h3 {
+  font-size: 26px;
+  color: #c9a96a;
+}
